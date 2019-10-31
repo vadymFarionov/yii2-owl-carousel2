@@ -27,6 +27,7 @@ class OwlCarouselAsset extends AssetBundle
      */
     public $css = [
         'dist/assets/owl.carousel.min.css',
+        'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css',
         'dist/assets/owl.theme.default.min.css',
     ];
 
